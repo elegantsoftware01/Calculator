@@ -19,7 +19,7 @@ body{
   align-items: center;
   min-height: 100dvh;            
   padding: 16px;                  
-  background-color: var(--bg);
+  background-color: rgba(16, 186, 195, 0.779);
 }
 
 #calculator{
